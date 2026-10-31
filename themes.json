@@ -64,7 +64,7 @@
         "cpp": "cd $dir && g++ $fileName -o $fileNameWithoutExt.exe && $dir$fileNameWithoutExt.exe"
     },
     // Font Settings
-    "editor.fontSize": 18, // ডিফল্ট ফন্ট সাইজ ১৪ সেট করা হলো
+    "editor.fontSize": 18,
     // Formatting Triggers
     "editor.formatOnSave": true,
     "editor.formatOnType": true,
